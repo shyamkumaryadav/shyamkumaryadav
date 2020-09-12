@@ -10,7 +10,7 @@ I am Freelance Software and Web Developer.
 > * 2018-2021  
 > * University of Mumbai, Mumbai, Maharashtra, India  
 > * GPA 8+  
-> * Graduated Magna Cum Laude  
+
 ---
 ### Skills  
 > 1. SQL, Java, JavaScript, C#, C, Python, react, vue, node and git.  
