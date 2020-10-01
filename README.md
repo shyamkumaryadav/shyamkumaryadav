@@ -4,7 +4,7 @@ I am Freelance Software and Web Developer.
 ---
 ### Projects
 > * May 2019 ‒ now  
-> * Created a working [E-book](../../../E_library) sales website with python, JavaScript, HTML, CSS, and django. Dynamic Web Application & Bootstrap helps in responsive mobile web development. Perform DATABASE connectivity with PostgreSQL using Python.   
+> * Created a working [E-book](../../../E_library) sales website with python, JavaScript, HTML, CSS, vue, and django. Dynamic Web Application & Bootstrap helps in responsive mobile web development. Perform DATABASE connectivity with PostgreSQL using Python.   
 ---
 ### Education  
 > * 2018-2021  
@@ -13,5 +13,5 @@ I am Freelance Software and Web Developer.
 
 ---
 ### Skills  
-> 1. SQL, Java, JavaScript, C#, C, Python, react, vue, node and git.  
+> 1. SQL, Java, JavaScript, C, Python, react, vue, node , mongodb and git.  
 > 2. Skilled in logic, and high math.  
