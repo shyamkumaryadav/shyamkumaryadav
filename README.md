@@ -10,3 +10,11 @@
 ### Skills  
 > 1. SQL, Java, JavaScript, C, Python, react, vue, node , mongodb and git.  
 > 2. Skilled in logic, and high math.  
+
+
+## GitHub Stats
+
+![Shyamkumar yadav GitHub stats](https://github-readme-stats.vercel.app/api?username=shyamkumaryadav&show_icons=&private_count=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shyamkumaryadav&layout=compact)]()
+
+<hr>
