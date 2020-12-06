@@ -14,7 +14,10 @@
 ---  
 ## GitHub Stats
 
-![Shyamkumar yadav GitHub stats](https://github-readme-stats.vercel.app/api?username=shyamkumaryadav&show_icons=&private_count=true)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shyamkumaryadav&layout=compact)]()
+![Shyamkumar yadav GitHub stats](https://github-readme-stats.vercel.app/api?username=shyamkumaryadav&show_icons=true&private_count=true&theme=flag-india)
+![Shyamkumar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=flag-india)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shyamkumaryadav&langs_count=10&theme=flag-india)
+
+
 
 ---
