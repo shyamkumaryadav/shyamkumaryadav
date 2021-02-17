@@ -13,6 +13,13 @@
 <a href="../../../shyamkumaryadav.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shyamkumaryadav&repo=shyamkumaryadav.github.io&theme=flag-india&bg_color=282828&icon_color=f0f0f0" /></a>  
 
 <a href="../../../rorlog"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shyamkumaryadav&repo=rorlog&theme=flag-india&bg_color=282828&icon_color=f0f0f0" /></a>  
+---
+# RESUME
+<object data="../../../shyamkumaryadav.github.io/blob/master/src/assets/Resume.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="../../../shyamkumaryadav.github.io/blob/master/src/assets/Resume.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="../../../shyamkumaryadav.github.io/blob/master/src/assets/Resume.pdf">Download PDF</a>.</p>
+    </embed>
+</object>  
 
 ---
  
@@ -21,4 +28,4 @@
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ishyamkumaryadav/)
 [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/ishyamkumaryadav)
 [<img src = "https://img.shields.io/badge/reddit-%23FF5722.svg?&style=for-the-badge&logo=reddit&logoColor=white">](https://www.reddit.com/user/shyamkumaryadav)
-[<img src = "https://img.shields.io/badge/Download-%23FF5722.svg?&style=for-the-badge&logo=Resume&logoColor=white">](https://github.com/shyamkumaryadav/shyamkumaryadav.github.io/blob/master/src/assets/Resume.pdf)  
+[<img src = "https://img.shields.io/badge/Download-%23FF5722.svg?&style=for-the-badge&logo=Resume&logoColor=white">](https://github.com/shyamkumaryadav/shyamkumaryadav.github.io/blob/master/src/assets/Resume.pdf)
