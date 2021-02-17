@@ -1,4 +1,4 @@
-# Shyamkumar yadav.
+# नमस्ते, I'm Shyamkumar yadav ![shyamkumar yadav](https://komarev.com/ghpvc/?username=shyamkumaryadav&style=flat-square) 
 
 ---  
 [![Shyamkumar yadav GitHub stats](https://github-readme-stats.vercel.app/api?username=shyamkumaryadav&show_icons=true&private_count=true&theme=flag-india&theme=flag-india)](https://shyamkumaryadav.github.io/)  
@@ -14,6 +14,11 @@
 
 <a href="../../../rorlog"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shyamkumaryadav&repo=rorlog&theme=flag-india&bg_color=282828&icon_color=f0f0f0" /></a>  
 
-
-
 ---
+ 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/shyamkumaryadav/)
+[<img src="https://img.shields.io/badge/stackoverflow-%23FF5722.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />](https://stackoverflow.com/users/11943384/shyamkumaryadav)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ishyamkumaryadav/)
+[<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/ishyamkumaryadav)
+[<img src = "https://img.shields.io/badge/reddit-%23FF5722.svg?&style=for-the-badge&logo=reddit&logoColor=white">](https://www.reddit.com/user/shyamkumaryadav)
+[<img src = "https://img.shields.io/badge/Download-%23FF5722.svg?&style=for-the-badge&logo=Resume&logoColor=white">](https://github.com/shyamkumaryadav/shyamkumaryadav.github.io/blob/master/src/assets/Resume.pdf)  
