@@ -25,7 +25,6 @@
  
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/shyamkumaryadav/)
 [<img src="https://img.shields.io/badge/stackoverflow-%23FF5722.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />](https://stackoverflow.com/users/11943384/shyamkumaryadav)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ishyamkumaryadav/)
-[<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/ishyamkumaryadav)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/shyamkumar___yadav/)
 [<img src = "https://img.shields.io/badge/reddit-%23FF5722.svg?&style=for-the-badge&logo=reddit&logoColor=white">](https://www.reddit.com/user/shyamkumaryadav)
 [<img src = "https://img.shields.io/badge/Download-%23FF5722.svg?&style=for-the-badge&logo=Resume&logoColor=white">](../../../shyamkumaryadav.github.io/raw/master/src/assets/Resume.pdf)
