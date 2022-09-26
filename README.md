@@ -22,7 +22,7 @@
 [github-views]: https://komarev.com/ghpvc/?username=shyamkumaryadav&style=flat-square
 [youtube]: https://www.youtube.com/channel/UCr2eV9fZwyGTQEGfCWyGCFg
 [linkedin]: https://www.linkedin.com/in/shyamkumaryadav
-[instagram]: https://www.instagram.com/shyamkumar___yadav
+[instagram]: https://www.instagram.com/shyamkumar__yadav
 [reddit]: https://www.reddit.com/user/shyamkumaryadav
 [stackoverflow]: https://stackoverflow.com/users/11943384/shyamkumaryadav
 [youtube-badge]: https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white
