@@ -1,30 +1,40 @@
-# नमस्ते, I'm Shyamkumar yadav ![shyamkumar yadav](https://komarev.com/ghpvc/?username=shyamkumaryadav&style=flat-square) 
+# नमस्ते, I'm Shyamkumar yadav [![shyamkumar yadav][github-views]][github]
 
----  
-[![Shyamkumar yadav GitHub stats](https://github-readme-stats.vercel.app/api?username=shyamkumaryadav&show_icons=true&private_count=true&theme=flag-india&theme=flag-india)](https://shyamkumaryadav.github.io/)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=shyamkumaryadav&theme=flag-india&theme=flag-india)](https://shyamkumaryadav.github.io/)
+[![Top Languages][top-lang-badge]][github]
 
-<a href="../../../ePustakalay"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shyamkumaryadav&repo=ePustakalay&theme=flag-india&bg_color=282828&icon_color=f0f0f0" /></a>  
+[![Shyamkumar yadav GitHub stats][stats-badge]][github]
 
-<a href="../../../gpacalculatorapp"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shyamkumaryadav&repo=gpacalculatorapp&theme=flag-india&bg_color=282828&icon_color=f0f0f0" /></a>  
+[![ePustakalay][epustakalay-badge]][epustakalay]
 
-<a href="../../../E_library"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shyamkumaryadav&repo=E_library&theme=flag-india&bg_color=282828&icon_color=f0f0f0" /></a>  
+[![gpacalculatorapp][gpacalculatorapp-badge]][gpacalculatorapp]
 
-<a href="../../../shyamkumaryadav.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shyamkumaryadav&repo=shyamkumaryadav.github.io&theme=flag-india&bg_color=282828&icon_color=f0f0f0" /></a>  
-
-<a href="../../../rorlog"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shyamkumaryadav&repo=rorlog&theme=flag-india&bg_color=282828&icon_color=f0f0f0" /></a>  
----
-# RESUME
-<object data="../../../shyamkumaryadav.github.io/blob/master/src/assets/Resume.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="../../../shyamkumaryadav.github.io/blob/master/src/assets/Resume.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="../../../shyamkumaryadav.github.io/blob/master/src/assets/Resume.pdf">Download PDF</a>.</p>
-    </embed>
-</object>  
+[![E_library][e_library-badge]][e_library]
 
 ---
- 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/shyamkumaryadav/)
-[<img src="https://img.shields.io/badge/stackoverflow-%23FF5722.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />](https://stackoverflow.com/users/11943384/shyamkumaryadav)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/shyamkumar___yadav/)
-[<img src = "https://img.shields.io/badge/reddit-%23FF5722.svg?&style=for-the-badge&logo=reddit&logoColor=white">](https://www.reddit.com/user/shyamkumaryadav)
-[<img src = "https://img.shields.io/badge/Download-%23FF5722.svg?&style=for-the-badge&logo=Resume&logoColor=white">](../../../shyamkumaryadav.github.io/raw/master/src/assets/Resume.pdf)
+
+[![Linkedin][linkedin-badge]][linkedin]
+[![YouTube][youtube-badge]][youtube]
+[![stackoverflow][stackoverflow-badge]][stackoverflow]
+[![instagram][instagram-badge]][instagram]
+[![reddit][reddit-badge]][reddit]
+
+[github]: https://github.com/shyamkumaryadav
+[github-views]: https://komarev.com/ghpvc/?username=shyamkumaryadav&style=flat-square
+[youtube]: https://www.youtube.com/channel/UCr2eV9fZwyGTQEGfCWyGCFg
+[linkedin]: https://www.linkedin.com/in/shyamkumaryadav
+[instagram]: https://www.instagram.com/shyamkumar___yadav
+[reddit]: https://www.reddit.com/user/shyamkumaryadav
+[stackoverflow]: https://stackoverflow.com/users/11943384/shyamkumaryadav
+[youtube-badge]: https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white
+[linkedin-badge]: https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
+[instagram-badge]: https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white
+[reddit-badge]: https://img.shields.io/badge/reddit-%23FF5722.svg?&style=for-the-badge&logo=reddit&logoColor=white
+[stackoverflow-badge]: https://img.shields.io/badge/stackoverflow-%23FF5722.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white
+[top-lang-badge]: https://github-readme-stats.vercel.app/api/top-langs?username=shyamkumaryadav&theme=flag-india&theme=flag-india
+[stats-badge]: https://github-readme-stats.vercel.app/api?username=shyamkumaryadav&show_icons=true&private_count=true&theme=flag-india&theme=flag-india
+[epustakalay-badge]: https://github-readme-stats.vercel.app/api/pin/?username=shyamkumaryadav&repo=ePustakalay&theme=flag-india&bg_color=282828&icon_color=f0f0f0
+[gpacalculatorapp-badge]: https://github-readme-stats.vercel.app/api/pin/?username=shyamkumaryadav&repo=gpacalculatorapp&theme=flag-india&bg_color=282828&icon_color=f0f0f0
+[e_library-badge]: https://github-readme-stats.vercel.app/api/pin/?username=shyamkumaryadav&repo=E_library&theme=flag-india&bg_color=282828&icon_color=f0f0f0
+[epustakalay]: https://github.com/shyamkumaryadav/ePustakalay
+[gpacalculatorapp]: https://github.com/shyamkumaryadav/gpacalculatorapp
+[e_library]: https://github.com/shyamkumaryadav/E_library
