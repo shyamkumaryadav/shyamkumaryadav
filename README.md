@@ -14,9 +14,9 @@
 
 [![Linkedin][linkedin-badge]][linkedin]
 [![YouTube][youtube-badge]][youtube]
-[![stackoverflow][stackoverflow-badge]][stackoverflow]
-[![instagram][instagram-badge]][instagram]
-[![reddit][reddit-badge]][reddit]
+[![Stackoverflow][stackoverflow-badge]][stackoverflow]
+[![Instagram][instagram-badge]][instagram]
+[![Reddit][reddit-badge]][reddit]
 
 [github]: https://github.com/shyamkumaryadav
 [github-views]: https://komarev.com/ghpvc/?username=shyamkumaryadav&style=flat-square
