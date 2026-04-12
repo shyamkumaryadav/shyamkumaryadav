@@ -22,13 +22,13 @@ I learn best by building, improving, and trying new tools in real projects.
 After scanning my public repositories on GitHub, these are the technologies that show up most often in the projects I work on and explore:
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/django/092E20" alt="Django" title="Django" width="48" height="48" />
-  <img src="https://cdn.simpleicons.org/djangorestframework/A30000" alt="Django REST Framework" title="Django REST Framework" width="48" height="48" />
-  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" title="Python" width="48" height="48" />
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" title="TypeScript" width="48" height="48" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" title="JavaScript" width="48" height="48" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" title="React" width="48" height="48" />
-  <img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue.js" title="Vue.js" width="48" height="48" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" title="Django" />
+  <img src="https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework" title="Django REST Framework" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" title="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" title="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" title="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" title="React" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" title="Vue.js" />
 </p>
 
 ## Projects
