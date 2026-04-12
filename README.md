@@ -1,5 +1,9 @@
 # Shyamkumar Yadav
 
+<p align="center">
+  <img src="https://hitscounter.dev/api/hit?url=shyamkumaryadav&label=Profile%20Views&icon=github&color=%23198754&message=&style=flat&tz=Asia%2FKolkata" alt="Profile Views" />
+</p>
+
 > कर्मण्येवाधिकारस्ते मा फलेषु कदाचन ।
 > मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि ॥
 
@@ -40,10 +44,12 @@ An Android app project that helped me learn something new outside web developmen
 
 ## Social Links
 
-- [GitHub](https://github.com/shyamkumaryadav)
-- [LinkedIn](https://www.linkedin.com/in/shyamkumaryadav)
-- [Portfolio](https://shyamkumaryadav.github.io)
-- [YouTube](https://www.youtube.com/channel/UCr2eV9fZwyGTQEGfCWyGCFg)
-- [Instagram](https://www.instagram.com/shyamkumar__yadav)
-- [Stack Overflow](https://stackoverflow.com/users/11943384/shyamkumaryadav)
-- [Reddit](https://www.reddit.com/user/shyamkumaryadav)
+<p align="center">
+  <a href="https://github.com/shyamkumaryadav"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/shyamkumaryadav"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://shyamkumaryadav.github.io"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.youtube.com/channel/UCr2eV9fZwyGTQEGfCWyGCFg"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://www.instagram.com/shyamkumar__yadav"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://stackoverflow.com/users/11943384/shyamkumaryadav"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+  <a href="https://www.reddit.com/user/shyamkumaryadav"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" /></a>
+</p>
